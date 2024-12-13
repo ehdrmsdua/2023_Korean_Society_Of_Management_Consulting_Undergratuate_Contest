@@ -4,7 +4,7 @@
 ## Prize: Excellence Award<br/>
 ### Leader: <br/>
 Eunjeong AN - Hansung Univ_AI Applications<br/>
-### Member: <br/>
+### Members: <br/>
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
 Jimin HWANG - Dongguk Univ_Information Communication Engineering <br/>
 Eunseo JANG - Sungshin W's Univ_Food Science Biotechnology<br/>
